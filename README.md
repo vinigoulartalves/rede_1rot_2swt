@@ -3,7 +3,7 @@
 ## Contextualização
 
 Neste projeto fiz duas redes se conectarem através de um roteador, e cada rede teve sua distribução de hosts feitas através de um switch interno.
-Foram aprendidos e utilizados os conceitos de iPv4, Redes, Máscaras de rede, Gateway, Broadcast e PDU.
+Foram introduzidos e aplicados os conceitos de iPv4, Redes, Máscaras de rede, Gateway, Broadcast e PDU.
 
 ## Lista dos componentes
 
